@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="planned_task" label="RIDAC" max_length="40" name="x_81603_ridac_ridac" sizeclass="116" type="collection">
+        <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Assigned" max_length="40" name="assigned" type="glide_date_time" use_dynamic_default="true"/>
+        <element choice="1" label="RIDAC Type" mandatory="true" max_length="40" name="ridac_type" type="choice">
+            <choice>
+                <element label="Action Item" sequence="0" value="action_item"/>
+                <element label="Risk" sequence="1" value="risk"/>
+                <element label="Issue" sequence="2" value="issue"/>
+                <element label="Decision" sequence="3" value="decision"/>
+                <element label="Change" sequence="4" value="change"/>
+                <element label="New Requirement" sequence="5" value="new_requirement"/>
+                <element label="Information" sequence="6" value="information"/>
+            </choice>
+        </element>
+    </element>
+</database>
