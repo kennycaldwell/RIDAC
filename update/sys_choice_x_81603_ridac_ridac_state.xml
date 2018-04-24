@@ -25,7 +25,7 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Work in Progress</label>
+            <label>Closed</label>
             <language>en</language>
             <name>x_81603_ridac_ridac</name>
             <sequence>1</sequence>
@@ -33,29 +33,10 @@
             <sys_created_on>2018-04-11 15:12:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ff19521b4f59130032643b718110c78b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 15:12:44</sys_updated_on>
-            <value>2</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Closed</label>
-            <language>en</language>
-            <name>x_81603_ridac_ridac</name>
-            <sequence>2</sequence>
-            <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 15:12:44</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>b319521b4f59130032643b718110c78e</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:07:15</sys_updated_on>
+            <sys_updated_on>2018-04-21 02:29:07</sys_updated_on>
             <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -66,35 +47,16 @@
             <label>Canceled</label>
             <language>en</language>
             <name>x_81603_ridac_ridac</name>
-            <sequence>3</sequence>
+            <sequence>2</sequence>
             <sys_created_by>kenny.caldwell</sys_created_by>
             <sys_created_on>2018-04-11 15:12:44</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7719521b4f59130032643b718110c790</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:09:28</sys_updated_on>
+            <sys_updated_on>2018-04-21 02:29:07</sys_updated_on>
             <value>7</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>WIP</label>
-            <language>en</language>
-            <name>x_81603_ridac_ridac</name>
-            <sequence>503</sequence>
-            <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-20 15:41:07</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>43e5fc124fa1130032643b718110c7d0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-20 15:41:07</sys_updated_on>
-            <value>503</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>

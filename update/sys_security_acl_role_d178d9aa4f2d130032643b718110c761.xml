@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>kenny.caldwell</sys_created_by>
+        <sys_created_on>2018-04-21 12:50:28</sys_created_on>
+        <sys_id>d178d9aa4f2d130032643b718110c761</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_81603_ridac_ridac_topic.scrum_admin</sys_name>
+        <sys_package display_value="RIDAC" source="x_81603_ridac">7b49025f4f19130032643b718110c7dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RIDAC">7b49025f4f19130032643b718110c7dc</sys_scope>
+        <sys_security_acl display_value="x_81603_ridac_ridac_topic">9978d9aa4f2d130032643b718110c75e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d178d9aa4f2d130032643b718110c761</sys_update_name>
+        <sys_updated_by>kenny.caldwell</sys_updated_by>
+        <sys_updated_on>2018-04-21 12:50:28</sys_updated_on>
+        <sys_user_role display_value="scrum_admin" name="scrum_admin">2e6671ed7f00000176bde2f701c7c650</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

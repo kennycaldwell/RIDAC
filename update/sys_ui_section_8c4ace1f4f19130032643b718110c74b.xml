@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>fa7ddb1b4f1d130032643b718110c714</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>b03a5d2e4f2d130032643b718110c764</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,195 +19,223 @@
             <element>ridac_type</element>
             <position>1</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>7e7ddb1b4f1d130032643b718110c714</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>343a5d2e4f2d130032643b718110c764</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>topic</element>
+            <position>2</position>
+            <sys_created_by>kenny.caldwell</sys_created_by>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>b43a5d2e4f2d130032643b718110c764</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
+            <sys_updated_by>kenny.caldwell</sys_updated_by>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>fe7ddb1b4f1d130032643b718110c714</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>383a5d2e4f2d130032643b718110c764</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>due_date</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>727ddb1b4f1d130032643b718110c715</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>b83a5d2e4f2d130032643b718110c764</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>closed_at</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>f27ddb1b4f1d130032643b718110c715</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>3c3a5d2e4f2d130032643b718110c764</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>767ddb1b4f1d130032643b718110c715</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>bc3a5d2e4f2d130032643b718110c764</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>parent</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>f67ddb1b4f1d130032643b718110c715</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>303a5d2e4f2d130032643b718110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>7a7ddb1b4f1d130032643b718110c715</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>b03a5d2e4f2d130032643b718110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>fa7ddb1b4f1d130032643b718110c715</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>343a5d2e4f2d130032643b718110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>7e7ddb1b4f1d130032643b718110c715</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>b43a5d2e4f2d130032643b718110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_assignee_list</element>
+            <position>11</position>
+            <sys_created_by>kenny.caldwell</sys_created_by>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>383a5d2e4f2d130032643b718110c765</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
+            <sys_updated_by>kenny.caldwell</sys_updated_by>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>10</position>
+            <position>12</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>fe7ddb1b4f1d130032643b718110c715</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>b83a5d2e4f2d130032643b718110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>11</position>
+            <position>13</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>727ddb1b4f1d130032643b718110c716</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>3c3a5d2e4f2d130032643b718110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>12</position>
+            <position>14</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>f27ddb1b4f1d130032643b718110c716</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>bc3a5d2e4f2d130032643b718110c765</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>13</position>
+            <position>15</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:24</sys_created_on>
-            <sys_id>767ddb1b4f1d130032643b718110c716</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>303a5d2e4f2d130032643b718110c766</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:24</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>14</position>
+            <position>16</position>
             <sys_created_by>kenny.caldwell</sys_created_by>
-            <sys_created_on>2018-04-11 20:11:25</sys_created_on>
-            <sys_id>f67ddb1b4f1d130032643b718110c716</sys_id>
+            <sys_created_on>2018-04-21 12:58:05</sys_created_on>
+            <sys_id>b03a5d2e4f2d130032643b718110c766</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_81603_ridac_ridac" sys_domain="global" view="Default view">8c4ace1f4f19130032643b718110c74b</sys_ui_section>
             <sys_updated_by>kenny.caldwell</sys_updated_by>
-            <sys_updated_on>2018-04-11 20:11:25</sys_updated_on>
+            <sys_updated_on>2018-04-21 12:58:05</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
