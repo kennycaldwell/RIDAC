@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>kenny.caldwell</sys_created_by>
         <sys_created_on>2018-04-21 12:50:29</sys_created_on>
-        <sys_id>e978d9aa4f2d130032643b718110c779</sys_id>
+        <sys_id>6cdff06b4f12530032643b718110c796</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_81603_ridac_ridac_topic</sys_name>
         <sys_package display_value="RIDAC" source="x_81603_ridac">7b49025f4f19130032643b718110c7dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="RIDAC">7b49025f4f19130032643b718110c7dc</sys_scope>
-        <sys_update_name>ua_table_licensing_config_e978d9aa4f2d130032643b718110c779</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_6cdff06b4f12530032643b718110c796</sys_update_name>
         <sys_updated_by>kenny.caldwell</sys_updated_by>
         <sys_updated_on>2018-04-21 12:50:29</sys_updated_on>
     </ua_table_licensing_config>

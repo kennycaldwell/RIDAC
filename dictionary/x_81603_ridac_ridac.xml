@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="planned_task" label="RIDAC" max_length="40" name="x_81603_ridac_ridac" sizeclass="155" type="collection">
+    <element audit="true" extends="planned_task" label="RIDAC" max_length="40" name="x_81603_ridac_ridac" type="collection">
         <element default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Assigned" max_length="40" name="assigned" type="glide_date_time" use_dynamic_default="true"/>
         <element choice="1" label="RIDAC Type" mandatory="true" max_length="40" name="ridac_type" type="choice">
             <choice>
